@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1676220065 source:c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\base.cpp
+	"Base.h"
+
+1676220183 c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\base.h
+	"ComonFunc.h"
+
+1678117572 c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\comonfunc.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1676221215 source:c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\comonfunc.cpp
+	"ComonFunc.h"
+
+1678117478 source:c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\main.cpp
+	"ComonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+
+1678167448 source:c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\baseobject.cpp
+	"BaseObject.h"
+
+1677506512 c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\baseobject.h
+	"ComonFunc.h"
+
+1677504032 source:c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\game_map.cpp
+	"game_map.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1677546821 c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\game_map.h
+	"ComonFunc.h"
+	"BaseObject.h"
+
+1678167079 source:c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\mainobject.cpp
+	"MainObject.h"
+
+1678167046 c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\mainobject.h
+	"ComonFunc.h"
+	"BaseObject.h"
+
+1678117054 source:c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\imptimer.cpp
+	"ImpTimer.h"
+
+1678116939 c:\users\hiren\onedrive\documents\programming\game\sdl2 platformer\imptimer.h
+	"ComonFunc.h"
+
